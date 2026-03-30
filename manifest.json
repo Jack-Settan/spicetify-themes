@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Lucid",
+    "description": "A modern, customizable Spicetify theme inspired by Bloom and Microsoft's Fluent Design System.",
+    "preview": "assets/images/base.png",
+    "readme": "README.md",
+    "usercss": "https://spicetify-lucid.sanooj.uk/spice/user.css",
+    "schemes": "https://spicetify-lucid.sanooj.uk/spice/color.ini",
+    "include": [
+      "https://spicetify-lucid.sanooj.uk/spice/theme.js"
+    ],
+    "authors": [
+      {
+        "name": "Sachu",
+        "url": "https://gitlab.com/sanoojes"
+      }
+    ],
+    "tags": [
+      "customizable",
+      "dynamic",
+      "fluent",
+      "bloom"
+    ]
+  },
+  {
+    "name": "Lucid V2 (Legacy)",
+    "description": "Legacy version of Lucid V2, compatible with Spotify versions v1.2.45 to v1.2.60. No longer maintained.",
+    "preview": "assets/images/base.png",
+    "readme": "README.md",
+    "usercss": "https://cdn.statically.io/gl/sanoojes/spicetify-lucid@v2/src/user.css",
+    "schemes": "https://cdn.statically.io/gl/sanoojes/spicetify-lucid@v2/src/color.ini",
+    "include": [
+      "https://cdn.statically.io/gl/sanoojes/spicetify-lucid@v2/src/theme.js"
+    ],
+    "authors": [
+      {
+        "name": "Sachu",
+        "url": "https://gitlab.com/sanoojes"
+      }
+    ],
+    "tags": [
+      "legacy",
+      "v1.2.45 - v1.2.60",
+      "unmaintained"
+    ]
+  },
+  {
+    "name": "Lucid V1 (Legacy)",
+    "description": "Original legacy version of Lucid, designed for Spotify versions v1.2.45 to v1.2.55. Unmaintained.",
+    "preview": "assets/images/base.png",
+    "readme": "README.md",
+    "usercss": "https://cdn.statically.io/gl/sanoojes/spicetify-lucid@v1/src/user.css",
+    "schemes": "https://cdn.statically.io/gl/sanoojes/spicetify-lucid@v1/src/color.ini",
+    "include": [
+      "https://cdn.statically.io/gl/sanoojes/spicetify-lucid@v1/src/theme.js"
+    ],
+    "authors": [
+      {
+        "name": "Sachu",
+        "url": "https://gitlab.com/sanoojes"
+      }
+    ],
+    "tags": [
+      "legacy",
+      "v1.2.45 - v1.2.55",
+      "unmaintained"
+    ]
+  },
+  {
+    "name": "Glassify",
+    "description": "A fluid glassmorphic Spicetify theme with transparency, blur, and a sleek modern design.",
+    "preview": "assets/images/base.png",
+    "readme": "README.md",
+    "usercss": "https://spicetify-glassify.sanooj.uk/spice/user.css",
+    "schemes": "https://spicetify-glassify.sanooj.uk/spice/colors.ini",
+    "include": [
+      "https://spicetify-glassify.sanooj.uk/spice/theme.js"
+    ],
+    "authors": [
+      {
+        "name": "Sachu",
+        "url": "https://github.com/sanoojes"
+      }
+    ],
+    "tags": [
+      "glass",
+      "modern",
+      "fluid",
+      "transparent",
+      "blur"
+    ]
+  }
+]
